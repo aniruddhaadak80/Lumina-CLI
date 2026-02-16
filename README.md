@@ -1,5 +1,5 @@
 # Lumina CLI
-![Demo](demo.mp4)
+![Demo](Demo.gif)
 
 > Generate **cinematic** landing pages from your terminal.
 
