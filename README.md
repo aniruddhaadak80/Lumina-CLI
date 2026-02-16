@@ -1,8 +1,10 @@
 # Lumina CLI
+![Demo](demo.mp4)
 
 > Generate **cinematic** landing pages from your terminal.
 
 Lumina CLI analyzes your project and builds a stunning 3D website automatically.
+
 
 ## Features
 - ⚡ **Zero Config**: Just run `lumina`
